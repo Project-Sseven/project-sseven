@@ -1,0 +1,1 @@
+define mother = Character(_("Мама"), color="#e8b4b8")
